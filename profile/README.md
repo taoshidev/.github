@@ -1,18 +1,18 @@
 # Taoshi
 
-Taoshi is leading the Bittensor revolution. We harness the full potential of Bittensor to create dynamic and rewarding subnetworks that incentivize intelligence, revolutionizing how individuals and businesses interact with the Bittensor blockchain.
+At Taoshi, we’re at the forefront of the Bittensor revolution. Since our founding in 2023, we’ve been dedicated to transforming the future of finance. We develop dynamic subnetworks where decentralized AI and machine learning analyze data across various asset classes. As a pivotal part of the Bittensor ecosystem, we’re not just engaging with the blockchain revolution; we’re leading it by delivering advanced data that empowers users to make informed financial decisions.
 
 ## Our Products Include
 
-### Prediction Subnet
+### Proprietary Trading Network (PTN)
 
-[Subnet 8](https://github.com/taoshidev/time-series-prediction-subnet) operates on a decentralized network where each miner contributes their predictive models to forecast Bitcoin's intraday price movement up to 8 hours in the future. Miner's models are validated and tested against real-world data, then scored and rewarded in $TAO based on their grade.
+[PTN](https://github.com/taoshidev/proprietary-trading-network) PTN receives signals from quant and deep learning machine learning trading systems to deliver the world's most complete trading signals across a variety of asset classes.
 
-[Checkout it's performance](dashboard.taoshi.io/)
+[Checkout it's performance](https://dashboard.taoshi.io/)
 
-### Request Layer
+### Request Network
 
-Our Request Layer allows subnets to receive clients who can pay for their service.
+The Request Network is a digital marketplace for decentralized data and services from the Bittensor network. Get started and become empowered with tools to propel innovation, research, and development across various domains—all through the power of Bittensor. Get Started with the Request Network [here](https://request.taoshi.io)
 
 ## Getting Started
 
