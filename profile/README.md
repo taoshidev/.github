@@ -6,13 +6,15 @@ At Taoshi, we’re at the forefront of the Bittensor revolution. Since our found
 
 ### Proprietary Trading Network (PTN)
 
-[PTN](https://github.com/taoshidev/proprietary-trading-network) PTN receives signals from quant and deep learning machine learning trading systems to deliver the world's most complete trading signals across a variety of asset classes.
+[PTN](https://github.com/taoshidev/proprietary-trading-network) receives signals from quant and deep learning machine learning trading systems to deliver the world's most complete trading signals across a variety of asset classes.
 
 [Checkout it's performance](https://dashboard.taoshi.io/)
 
 ### Request Network
 
-The Request Network is a digital marketplace for decentralized data and services from the Bittensor network. Get started and become empowered with tools to propel innovation, research, and development across various domains—all through the power of Bittensor. Get Started with the Request Network [here](https://request.taoshi.io)
+The Request Network is a digital marketplace for decentralized data and services from the Bittensor network. Get started and become empowered with tools to propel innovation, research, and development across various domains—all through the power of Bittensor.
+
+Get Started with the Request Network [here](https://request.taoshi.io)
 
 ## Getting Started
 
