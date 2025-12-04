@@ -4,9 +4,9 @@ At Taoshi, we’re at the forefront of the Bittensor revolution. Since our found
 
 ## Our Products Include
 
-### Proprietary Trading Network (PTN)
+### Vanta Network
 
-[PTN](https://github.com/taoshidev/proprietary-trading-network) receives signals from quant and deep learning machine learning trading systems to deliver the world's most complete trading signals across a variety of asset classes.
+[Vanta](https://github.com/taoshidev/vanta-network) receives signals from quant and deep learning machine learning trading systems to deliver the world's most complete trading signals across a variety of asset classes.
 
 [Checkout it's performance](https://dashboard.taoshi.io/)
 
